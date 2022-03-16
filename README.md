@@ -143,4 +143,4 @@ Create a database schema that will represent People, their Location, and their I
    - Use GROUP BY to figure out how many people live in each of our four cities (the result should have a row for each city with the number of people present in each city)
    - Use GRUOP BY to determine how many people are interested in each of the 7 interests (the result should have a row for each interest with the number of people interested in each one respectively)
    - Write a query that finds the names (first and last) of all the people who live in Nashville, TN and are interested in coding (Columns to SELECT = firstName, lastName, city, state, & interest title)
-   - BONUS **OPTIONAL** use GROUP BY with cases to determine how many people there are in each of the following age ranges: 20-30, 30-40, 40-50 (the result should have a row for each age group with the number of people present in each group)
+   - **OPTIONAL BONUS** use GROUP BY with cases to determine how many people there are in each of the following age ranges: 20-30, 30-40, 40-50 (the result should have a row for each age group with the number of people present in each group)
