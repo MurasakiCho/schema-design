@@ -33,7 +33,7 @@ Create a database schema that will represent People, their Location, and their I
    |  Barbe     |   Purver   |  50  |      3      |
    |  Reeta     |   Sammons  |  34  |      2      |
    |  Abbott    |  Fisbburne |  49  |      1      |
-   |  Winne     |   Whines   |  19  |      4      |
+   |  Winnie     |   Whines   |  19  |      4      |
    |  Samantha  |   Leese    |  35  |      2      |
    |  Edouard   |  Lorimer   |  29  |      1      |
    |  Mattheus  |  Shaplin   |  27  |      3      |
